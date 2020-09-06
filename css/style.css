@@ -525,6 +525,7 @@ html {
 
 .certificate__img {
     width: 100%;
+    min-height: 200px;
 }
 
 .certificates__zoomWrap {
